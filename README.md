@@ -54,7 +54,7 @@ Download lombok.jar from [Project Lombok](http://projectlombok.org/)
 - Default VM arguments
 
 ```
--javaagent:/Applications/eclipseLuna/Eclipse.app/Contents/MacOS/lombok.jar
+-javaagent:/Applications/eclipse/Eclipse.app/Contents/MacOS/lombok.jar
 ```
 
 
